@@ -94,6 +94,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 ## Generators
 
 - [Tool Name](https://example.com) - One-line description of what it does.
+- [WizGenerator Story Generator](https://wizgenerator.com/tools/story-generator/) - Create customizable stories by genre, tone, characters, plot and length.
 
 ## Contributing
 
