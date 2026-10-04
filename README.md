@@ -26,6 +26,7 @@ Every tool listed here runs entirely in the browser and is free to use. Contribu
 - [Text Case Converter](https://dailytoolkit.app/tools/text-case-converter) - Switch text between upper, lower, title, sentence and toggle case instantly.
 - [Text Repeater](https://dailytoolkit.app/tools/text-repeater) - Repeat any text or phrase a set number of times.
 - [Word Counter](https://dailytoolkit.app/tools/word-counter) - Analyze text with word, character, sentence, paragraph, and reading-time counts.
+- [Word Counter Suite](https://wordcountersuite.com) - Free word counter and text analysis toolkit with 15+ tools including character counter, case converter, reading time calculator, and keyword density analyzer. No signup required, privacy-friendly.
 
 ## Developer Tools
 
